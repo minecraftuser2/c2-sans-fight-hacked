@@ -1025,7 +1025,6 @@
                 <member>Platform2</member>
             </members>
             <instance-variables>
-                <instance-variable name="Damage" sid="6677681737098705" type="number" />
                 <instance-variable name="Karma" sid="6030229564139285" type="number" />
                 <instance-variable name="Color" sid="821640292253391" type="number" />
             </instance-variables>
@@ -1051,7 +1050,6 @@
                 <member>GasterBlastHit</member>
             </members>
             <instance-variables>
-                <instance-variable name="Damage" sid="5846064141855004" type="number" />
                 <instance-variable name="Karma" sid="4419610502870706" type="number" />
             </instance-variables>
         </family>
